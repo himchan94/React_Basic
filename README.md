@@ -11,7 +11,7 @@ https://sparta-react-c254d.firebaseapp.com/
 React.js, styled-components, firestore, redux
 
 ####  Redux를 사용한 상태관리방법
-기존 state로만 데이터들을 관리할 때, 컴포넌트에서 데이터의 이동이 제한되는 경우가 많않다. 하지만 Redux를 통해 전역적으로 데이터들을 관리하면 이 문제점이 해결되었다.
+기존 state로만 데이터들을 관리할 때, 컴포넌트에서 데이터의 이동이 제한되는 경우가 많다. 하지만 Redux를 통해 전역적으로 데이터들을 관리하면 이 문제점이 해결되었다.
 ```
 // 액션
 const LOAD = "bucket/LOAD";

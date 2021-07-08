@@ -1,4 +1,4 @@
-### ToDo 리스트
+### 버킷리스트
 
 (링크)
 https://sparta-react-c254d.firebaseapp.com/
